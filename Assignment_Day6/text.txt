@@ -1,0 +1,7 @@
+Plain Text:
+Please find the list of details of the Employees-
+Emp.No  Emp.Name
+3783    Samuel
+83992   Rosy
+3728    Rohan
+43848   Alin

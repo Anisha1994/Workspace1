@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alex",
+    "age": 35,
+    "designation": "Manager"
+  },
+  {
+    "name": "Bala",
+    "age": 25,
+    "designation": "Software Engineer"
+    },
+  {
+    "name": "Stela",
+    "age": 30,
+    "designation": "Lead"
+  }
+]
